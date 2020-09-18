@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWidget</string>
+    <string name="common_greeting">Hello? How are u?</string> <!--다국어 지원 가능 values_en 또는 values_kr 같이 폴더를 통해 언어 분리가 가능-->
+    <string name="myname">My name is MikeMy name is MikeMy name is MikeMy name is MikeMy name is Mike</string>
+</resources>
