@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935597195307",
+    "firebase_url": "https://parttimeschedular.firebaseio.com",
+    "project_id": "parttimeschedular",
+    "storage_bucket": "parttimeschedular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935597195307:android:0ccf74f354de74e1ca2a6e",
+        "android_client_info": {
+          "package_name": "com.kangwon.schdular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935597195307-ibu72vts2ii2cdbn76q1pk3jla4qoesj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WQ8imSC9iosn9341PGvF8qPHuZYYiE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935597195307-ibu72vts2ii2cdbn76q1pk3jla4qoesj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

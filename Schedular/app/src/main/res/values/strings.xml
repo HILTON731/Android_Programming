@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Schedular</string>
+    <string name="passwd">Passwd</string>
+    <string name="signin">SignIn</string>
+</resources>
