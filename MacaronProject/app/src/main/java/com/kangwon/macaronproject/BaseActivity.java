@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ProgressBar;
 
 import com.google.firebase.auth.FirebaseAuth;
-// BaseActivity
+
 public class BaseActivity extends AppCompatActivity {
     private ProgressBar mProgressBar;
 
