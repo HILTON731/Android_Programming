@@ -132,6 +132,7 @@ public class MemberInfoActivity extends BaseActivity implements View.OnClickList
         finish();
     }
 
+    // revoke
     private void revoke() {
         String user = mAuth.getCurrentUser().getUid();
         for(String table: Env.DBTABLES){

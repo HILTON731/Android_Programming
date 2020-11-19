@@ -11,7 +11,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.kangwon.macaronproject.databinding.ActivityMainBinding;
 import com.kangwon.macaronproject.env.Env;
-
+// StuB
 public class MainActivity extends BaseActivity implements View.OnClickListener {
 
     private static final String TAG = "MainActivity";

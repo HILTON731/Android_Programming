@@ -19,7 +19,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.kangwon.macaronproject.databinding.ActivityLoginBinding;
 import com.kangwon.macaronproject.env.Env;
 import com.kangwon.macaronproject.models.User;
-
+// Main
 public class LoginActivity extends BaseActivity implements View.OnClickListener {
 
     private static final String TAG = "SignInActivity";
